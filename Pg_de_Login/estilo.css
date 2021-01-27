@@ -1,0 +1,65 @@
+body {
+  background-color: rgb(200,56,160);
+  font: normal 12pt Arial;
+}
+
+div#login {
+  background-color: white;
+  align-items: center;
+  text-align: center;
+  border-radius: 15px;
+  margin-top: 60px;
+  padding: 5px;
+}
+
+input#facebook {
+  background-color: rgb(40,127,229);
+  color: white;
+  font: normal 13pt Arial;
+  padding: 7px 100px;
+  margin-top: -10px;
+  margin-bottom: 10px;
+  border: none;
+}
+
+input#gmail {
+  background-color: rgb(240,53,53);
+  color: white;
+  font: normal 13pt Arial;
+  padding: 7px 116px;
+  margin-bottom: -15px;
+  border: none;
+}
+
+input#email {
+  font: normal 11pt Arial;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  margin-left: 0px;
+  padding: 4px auto;
+  margin-bottom: 10px;
+}
+
+input#senha {
+  font: normal 11pt Arial;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  margin-left: 0px;
+  padding: 4px auto;
+}
+
+input#entrar {
+  background-color: rgb(200,56,160);
+  color: white;
+  font: normal 13pt Arial;
+  padding: 7px 100px;
+  margin-top: -10px;
+  margin-bottom: 20px;
+  border: none;
+}
+
+a {
+  text-decoration: none;
+}
